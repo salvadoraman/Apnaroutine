@@ -1,0 +1,12 @@
+#txt{
+    background-color: black;
+    color:white;
+}
+#desc{
+    background-color:black;
+    color:white;
+}
+#main{
+    background: linear-gradient(to right,rgba(0,0,0,.9),rgba(0,0,0,.1));
+}
+
